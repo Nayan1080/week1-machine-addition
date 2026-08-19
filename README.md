@@ -12,10 +12,10 @@ I gave the model different pairs of numbers and their sums.
 
 For example:
 
-1 + 2 = 3
-2 + 3 = 5
-5 + 6 = 11
-10 + 20 = 30
+1 + 2 = 3, 
+2 + 3 = 5, 
+5 + 6 = 11, 
+10 + 20 = 30, 
 
 I used Linear Regression to learn the relationship between the input numbers and the output.
 
